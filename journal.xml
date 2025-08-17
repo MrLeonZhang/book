@@ -81,5 +81,16 @@
                 </Log>
             </Day>
         </Month>
+        <Month name="August" number="8">
+            <Day name="Sunday" number="17">
+                <Log>
+                    I tried out something quite interesting today after binocular vision was mentioned in this book I was reading.
+                    I thought that it should be possible to see both sides of a flat plane if it was placed in the right position.
+                    And so I brought a card up between my eyes, perpendicular to my face, and what I saw was interesting.
+                    Yes I could see both sides of the card, but not simultaneously. I could consciously shift focus from one eye to the other and thus see the other side.
+                    But both at once? That vision simply did not appear to me. And another thing, if I looked straight ahead I hardly noticed the card at all.
+                </Log>
+            </Day>
+        </Month>
     </Year>
 </Journal>
