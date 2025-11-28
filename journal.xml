@@ -123,5 +123,17 @@
                 </Log>
             </Day>
         </Month>
+        <Month name="November" number="11">
+            <Day name="Friday" number="28">
+                <Log>
+                    I've started to think that I am growing weary of the city. Just shy of 2 years, and 5 months I have lived here now, just outside the northwest corner of Surry Hills.
+                    I had been filled with excitement to come here. Not just for the convenience of attending to my duties at the University of Sydney (at the time), but also for being around people and around the center of the action.
+                    I wanted to know what love was, and it seemed like the bustling heart of the city was the right place to find out.
+                    Or perhaps I was just addicted to the chaos and excitement. A yearning for adventure.
+                    Those wants are passing me by.
+                    Eventually, a simple life with people that I love will be all that I wish for.
+                </Log>
+            </Day>
+        </Month>
     </Year>
 </Journal>
