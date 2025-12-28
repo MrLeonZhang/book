@@ -135,5 +135,22 @@
                 </Log>
             </Day>
         </Month>
+        <Month name="December" number="12">
+            <Day name="Monday" number="29">
+                <Log>
+                    New Year's Resolution:
+                    1. No drinking, except for significant ocassions.
+                        1.1 A significant ocassion must be on no more than an annual basis, and involve other people, and have a unique name, e.g. X's birthday, EOY party.
+                    2. Be more active in online spaces, particularly Instagram and LinkedIn.
+                        2.1 Make at least one permanent post on the aforementioned platforms per month.
+                    3. Be kind to, and satisfied with, myself.
+
+                    The first two resolutions, I believe, cannot be fulfilled without the fulfillment of the third.
+                    I'd drink out of self-pity, shame, and dissatisfaction. In spite of all that I should be grateful for.
+                    I'd hide myself away from the world out of fear and anxiety.
+                    No more.
+                </Log>
+            </Day>
+        </Month>
     </Year>
 </Journal>
