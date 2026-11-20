@@ -169,5 +169,14 @@
                 </Log>
             </Day>
         </Month>
+        <Month name="November" number="11">
+            <Day name="Friday" number="20">
+                <Log>
+                    A lot of the time, my sense of purpose in life is hazy. I can even descend into nihilism, wondering whether there is any purpose to be found at all.
+                    But in this moment where the weather is beautiful and I can look forward to a wonderful weekend ahead with much revelry. It has come to me that my purpose should be a simple one.
+                    To live in the moment, and bring joy to those around me, and myself.
+                </Log>
+            </Day>
+        </Month>
     </Year>
 </Journal>
